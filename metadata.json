@@ -1,0 +1,5 @@
+{
+  "name": "KeyGuard AI - Controle de Chaves",
+  "description": "Sistema inteligente para controle de retirada e devolução de chaves e equipamentos, com relatórios gerados por IA.",
+  "requestFramePermissions": []
+}
